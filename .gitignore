@@ -6,3 +6,4 @@ pycache/
 *.sqlite3
 venv/
 .env
+movie_genre_classification/docs/

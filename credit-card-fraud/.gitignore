@@ -6,3 +6,6 @@ pycache/
 *.sqlite3
 .venv/
 .env
+
+docs/*
+
